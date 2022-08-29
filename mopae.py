@@ -41,7 +41,7 @@ BEST_MODEL = str(LAMBDA_1)+'_'+str(LAMBDA_2)+'_'+str(LAMBDA_3)+'_r'+str(EPOCHS)+
 
 # Base Director
 
-DIR = './'
+DIR = './sample_trainingdata/'
 DATASET = DIR + 'GeoLifeBeijing_grid_train.csv' 
 DATASET_TEST = DIR + 'GeoLifeBeijing_grid_test.csv'
 
