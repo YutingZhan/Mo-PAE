@@ -33,13 +33,14 @@ Please refer to:
 
 ### Datasets
 
-(1) 
+(1) [Priva'Mov](https://projet.liris.cnrs.fr/privamov/project/)
 
-(2)
+(2) [GeoLife](https://www.microsoft.com/en-us/research/publication/geolife-gps-trajectory-dataset-user-guide/)
 
-(3)
+(3) [FourSquare](https://sites.google.com/site/yangdingqi/home/foursquare-dataset)
 
-(4)
+(4) [MDC](https://www.idiap.ch/project/mdc/front-page)
+
 
 #### Reference
 
