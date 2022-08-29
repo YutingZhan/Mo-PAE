@@ -1,7 +1,7 @@
 # Mo-PAE
 
 Here is the code for the implementation of Mo-PAE network.
-Due to some data security, we only share a sample data of Geolife (preprocessed already).
+Due to some data security, we only share a sample data of Geolife (preprocessed already), in the sample_trainingdata folder.
 
 Training Setting for the results in the paper:
 The main goal of the proposed adversarial network is to learn an efficient feature representation based on the utility and privacy budgets, using all users' mobility histories. In most experiments in this work, the trajectory sequences consist of 10 historical locations with timestamps, and the impact of the varying sequence lengths is discussed.
