@@ -27,6 +27,6 @@ Please refer to:
 
 (A) LSTM-TrajGAN: https://github.com/GeoDS/LSTM-TrajGAN
 
-(B) GI-DP:
+(B) GI-DP:https://github.com/LapisIT/differential_privacy
 
 
