@@ -3,7 +3,7 @@
 Here is the code for the implementation of Mo-PAE network.
 Due to some data security, we only share a sample data of Geolife (preprocessed already), in the sample_trainingdata folder.
 
-![]（https://github.com/YutingZhan/Mo-PAE/blob/9c2aeab31aff3bc297897ce55ebd30547681c42b/scenario.pdf）
+![]（scenario.pdf）
 
 ## Training Setting for the results in the paper:
 
