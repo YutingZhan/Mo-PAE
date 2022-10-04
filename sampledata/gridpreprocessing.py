@@ -17,7 +17,7 @@ import numpy as np
 DIR = './'
 
 DATASET_TRAIN = DIR + 'GeoLifeBeijing_sample.csv'
-SAVE_TRAIN = DIR_GRID + 'GeoLifeBeijing_grid_sample.csv'
+SAVE_TRAIN = DIR + 'GeoLifeBeijing_grid_sample.csv'
 
 # Load dataset
 df_train = pd.read_csv(DATASET_TRAIN)
