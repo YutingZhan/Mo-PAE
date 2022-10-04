@@ -26,11 +26,11 @@ $ source venv/bin/activate
 (venv) $ pip3 install -r requirements.txt
 ```
 
-2. Go the the sampledata folder ('cd sampledata/'), 
+2. Go the the sampledata folder, 
 ```
 cd sampledata/
 ```
-then coverting the GPS data to POI data, by running
+then coverting the GPS data to POI data, run
 ```
 python3 gridpreprocessing.py
 ```
