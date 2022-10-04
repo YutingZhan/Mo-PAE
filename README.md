@@ -35,7 +35,17 @@ then coverting the GPS data to POI data, by running
 python3 gridpreprocessing.py
 ```
 
-3. Back to the main folder ('cd ..'), run 'python3 mopae.py' (This will take time, for your convenience, please change the "Epoch" to 1 and see if it works properly before any other exploration.)
+3. Back to the main folder, 
+```
+cd ..
+```
+
+run 
+
+```
+python3 mopae.py
+```
+This will take time, for your convenience, please change the "Epoch" to 1 and see if it works properly before any other exploration.
 
 (Tips: we run the code on the GPU node, it might be easier if you could test it on simialr setting)
 
