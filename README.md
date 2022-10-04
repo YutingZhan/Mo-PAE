@@ -20,9 +20,9 @@ After data pre-processing, 80\% of each user's records are segmented as the trai
 
 1. Check dependencies, run '$ pip3 install -r requirements.txt'
 
-1: Go the the sampledata folder ('cd sampledata/'), run 'gridpreprocessing.py', coverting the GPS data to POI data;
+2. Go the the sampledata folder ('cd sampledata/'), run 'gridpreprocessing.py', coverting the GPS data to POI data;
 
-2: Back to the main folder, run 'mopae.py'
+3. Back to the main folder, run 'mopae.py'
 
 
 ### For the comparsion model
