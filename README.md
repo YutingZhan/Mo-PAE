@@ -18,11 +18,19 @@ After data pre-processing, 80\% of each user's records are segmented as the trai
 
 ### All you need to begin with:
 
-1. Check dependencies, run '$ pip3 install -r requirements.txt'
+1. Using Python virtual environments and check the dependencies
 
-2. Go the the sampledata folder ('cd sampledata/'), run 'gridpreprocessing.py', coverting the GPS data to POI data;
+```
+$ python3 -m venv ./venv
+$ source venv/bin/activate
+(venv) $ pip3 install -r requirements.txt
+```
 
-3. Back to the main folder, run 'mopae.py'
+2. Go the the sampledata folder ('cd sampledata/'), run 'python3 gridpreprocessing.py', coverting the GPS data to POI data;
+
+3. Back to the main folder ('cd ..'), run 'python3 mopae.py' (This will take time, for your convenience, please change the "Epoch" to 1 and see if it works properly before any other exploration.)
+
+(Tips: we run the code on the GPU node, it might be easier if you could test it on simialr setting)
 
 
 ### For the comparsion model
