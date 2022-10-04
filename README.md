@@ -26,9 +26,7 @@ $ source venv/bin/activate
 (venv) $ pip3 install -r requirements.txt
 ```
 
-2. [Data pre-processing]
-
-Go the the sampledata folder, 
+2. Data pre-processing, direct to the the sampledata folder, 
 ```
 cd sampledata/
 ```
@@ -36,15 +34,14 @@ then coverting the GPS data to POI data, run
 ```
 python3 gridpreprocessing.py
 ```
+It will generated a POI-version data, which will be fed into the Mo-PAE network (i.e., input file for the next step.)
 
-3. [Implementation of the Mo-PAE network described in the paper] 
-
-Back to the main folder, 
+3. Implementation of the Mo-PAE network described in the paper, first back to the main folder, 
 ```
 cd ..
 ```
 
-run 
+then run main function (i.e., Mo-PAE)
 
 ```
 python3 mopae.py
