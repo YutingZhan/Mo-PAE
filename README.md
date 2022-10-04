@@ -41,7 +41,7 @@ It will generated a POI-version data, which will be fed into the Mo-PAE network 
 cd ..
 ```
 
-then run main function (i.e., Mo-PAE)
+then run main network (i.e., Mo-PAE)
 
 ```
 python3 mopae.py
