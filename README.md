@@ -18,7 +18,7 @@ After data pre-processing, 80\% of each user's records are segmented as the trai
 
 ### All you need to begin with:
 
-1. Using Python virtual environments and check the dependencies
+1. Using Python virtual environments (this code works for version 3.9 and 3.10) and check the dependencies
 
 ```
 $ python3 -m venv ./venv
